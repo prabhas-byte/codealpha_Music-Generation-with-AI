@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Music Generator • Prabhas</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <div class="particles"></div>
+
+  <div class="container">
+    <header>
+      <h1>🎹 Instant AI Music Generator</h1>
+      <p>Procedural beats & melodies – no loading, instant play</p>
+    </header>
+
+    <div class="controls">
+      <select id="styleSelect">
+        <option value="ambient">Ambient / Chill Pad</option>
+        <option value="arpeggio">Arpeggio Synth</option>
+        <option value="techno">Techno Beat</option>
+        <option value="jazz">Jazz Chords</option>
+        <option value="chiptune">Chiptune / Retro</option>
+        <option value="piano">Classical Piano</option>
+        <option value="electronic">Electronic Drops</option>
+        <option value="hiphop">Hip-Hop Drums</option>
+      </select>
+
+      <div class="temp-control">
+        <label for="bpm">Tempo (BPM): </label>
+        <input type="range" id="bpm" min="60" max="180" step="10" value="120">
+        <span id="bpmValue">120</span>
+      </div>
+
+      <button id="generateBtn">Generate & Play</button>
+      <button id="stopBtn" disabled>■ Stop</button>
+    </div>
+
+    <div id="status">Ready! Choose style & click Generate & Play</div>
+
+    <div class="piano-roll" id="pianoRoll">
+      Generated music playing... (visualizer coming soon)
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/tone@14.8.49/build/Tone.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
