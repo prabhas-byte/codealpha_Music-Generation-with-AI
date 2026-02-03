@@ -1,10 +1,10 @@
 # 🎹 Instant AI Music Generator 
 
-<br>Turn your mood into music — no DAW, no skills, just click & vibe.
+<br> Turn your mood into music — no DAW, no skills, just click & vibe.
 
 
   ![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/b838fccd6db6be2b9a4578d9c81cc8aa008e0fff/Screenshot%202026-02-03%20131109.png)
-  <br><b>Choose style → slide tempo → hit play → feel it</b>
+  <br> <b>Choose style → slide tempo → hit play → feel it</b>
 
 ## Features 🔥
 - 9 fire music styles to choose from:(optional) you can add other music to code and run
@@ -22,8 +22,9 @@
 - Neon cosmic UI with gradient animations that pulse with the beat
 
 ## Screenshots
-
-![image alt]()
+- select your music
+![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/e64fc1b4aa9fb924b1cbbd17c8d1358b47e59b33/Screenshot%202026-02-03%20133710.png)
+- regenerate the music
 ![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/2d222de6e3db84adceb7a88d4d8d08738e40815d/Screenshot%202026-02-03%20131138.png)
 ![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/5621be9564991c896b3ebcf3fd870438f66e8011/Screenshot%202026-02-03%20131201.png)
 
