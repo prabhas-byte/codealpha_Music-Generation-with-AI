@@ -1,11 +1,10 @@
-# 🎹 Instant AI Music Generator – Drop Beats in Seconds
+# 🎹 Instant AI Music Generator 
 
 Turn your mood into music — no DAW, no skills, just click & vibe.
 
-<p align="center">
+
   ![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/b838fccd6db6be2b9a4578d9c81cc8aa008e0fff/Screenshot%202026-02-03%20131109.png)
-  <br><b>Choose style → slide tempo → hit play → feel it</b>
-</p>
+  <b>Choose style → slide tempo → hit play → feel it</b>
 
 ## Features 🔥
 - 9 fire music styles to choose from:(optional) you can add other music to code and run
@@ -24,7 +23,7 @@ Turn your mood into music — no DAW, no skills, just click & vibe.
 
 ## Screenshots
 
-![image alt]()
+![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/2d222de6e3db84adceb7a88d4d8d08738e40815d/Screenshot%202026-02-03%20131138.png)
 ![image alt]()
 ![image alt]()
 
