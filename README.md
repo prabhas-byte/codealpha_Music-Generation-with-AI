@@ -3,7 +3,7 @@
 Turn your mood into music — no DAW, no skills, just click & vibe.
 
 <p align="center">
-  <img src="./screenshot-main.png" width="70%" alt="Cosmic UI ready to make fire">
+  ![image alt](https://github.com/prabhas-byte/codealpha_Music-Generation-with-AI/blob/b838fccd6db6be2b9a4578d9c81cc8aa008e0fff/Screenshot%202026-02-03%20131109.png)
   <br><b>Choose style → slide tempo → hit play → feel it</b>
 </p>
 
